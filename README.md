@@ -7,7 +7,7 @@ This Project Was Created in Tailwind Css.
 
 ## Getting Started
 
-Follow these steps to kickstart your Phans-Permissions experience:
+Follow these steps to kickstart your Phans-PedMenu experience:
 
 1. Clone this repository to your local machine:
 
@@ -27,7 +27,7 @@ Follow these steps to kickstart your Phans-Permissions experience:
     pnpm i && code . && pnpm dev
     ```
 
-4. Start exploring and customizing your Phans-Permissions experience!
+4. Start exploring and customizing your Phans-PedMenu experience!
 
 ## Features
 
