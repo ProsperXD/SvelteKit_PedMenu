@@ -1,6 +1,7 @@
 # SvelteKit-PedMenu
 
 Welcome to SvelteKit-PedMenu, a fantastic project that leverages the power of SvelteKit! 🚀
+This Project Was Created in Tailwind Css.
 
 ![Project Preview](docs/preview.png) <!-- Update this path based on where you save the image -->
 
